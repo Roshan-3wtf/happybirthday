@@ -38,7 +38,7 @@ body {
 }
 
 .three {
-  font-size: 3rem;
+  font-size: 2rem;
 }
 
 .four .text-box {
@@ -83,7 +83,7 @@ body {
 }
 
 .five .idea-5 {
-  font-size: 4rem;
+  font-size: 3rem;
 }
 
 .idea-5 span, .idea-6 span, .wish-hbd span {
@@ -91,7 +91,7 @@ body {
 }
 
 .idea-6 span{
-  font-size: 15rem;
+  font-size: 10rem;
 }
 
 
@@ -197,19 +197,19 @@ body {
 }
 
 .wish-hbd {
-  font-size: 3em;
+  font-size: 2em;
   margin: 0;
   text-transform: uppercase;
 }
 
 .wish h5 {
-  font-size: 2rem;
+  font-size: 1rem;
   font-weight: lighter;
   margin: 10px 0 0;
 }
 
 .nine p {
-  font-size: 2rem;
+  font-size: 1rem;
   font-weight: lighter;
 }
 
@@ -268,11 +268,11 @@ body {
   
 
   .wish-hbd {
-    font-size: 2.2em;
+    font-size: 2.1em;
   }
 
   .wish h5 {
-    font-size: 1.4rem;
+    font-size: 1.2rem;
   }
 
   .nine p {
